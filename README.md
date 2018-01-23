@@ -1,1 +1,1 @@
-# Python_for_Data_Analysis
+# Exercises from [Python for Data Analysis](https://github.com/wesm/pydata-book)
